@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c,a as o}from"./entry.c011d25a.js";const n={},a=o("p",null,"Product ID Contact Page",-1),s=[a];function r(_,d){return c(),t("div",null,s)}const f=e(n,[["render",r]]);export{f as default};
